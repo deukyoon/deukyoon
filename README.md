@@ -6,7 +6,7 @@
 ### 컴공과 재학 중인 대학생입니다.
 
 ### 공부 중...
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>\
 <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-blue?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 <!--
