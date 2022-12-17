@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving-&color=random&height=200&section=header&text=컴?공!&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving-&color=random&height=200&section=header&text=컴?공&fontSize=50&fontColor=ffffff)
 
 #### Hello World! 😄
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeukyoon&count_bg=%230ED1DB&title_bg=%234891E5&icon=logitech.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 컴퓨터공학과 재학 중!
+### 컴퓨터공학과
 
 
 ##### 🌱공부 중...🌱
